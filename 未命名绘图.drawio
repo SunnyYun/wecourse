@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.4">
+  <diagram name="仓储底图" id="TWkCbUTTZUbyvimclq4i">
+    <mxGraphModel dx="1075" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#165DFF;strokeColor=#000000;strokeWidth=2" value="收货待检区" vertex="1">
+          <mxGeometry height="150" width="200" x="50" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6B7280;strokeColor=#000000;strokeWidth=2" value="整箱存储区" vertex="1">
+          <mxGeometry height="300" width="400" x="300" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F59E0B;strokeColor=#000000;strokeWidth=2" value="拆零拣选区" vertex="1">
+          <mxGeometry height="300" width="300" x="750" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F97316;strokeColor=#000000;strokeWidth=2" value="复核打包区" vertex="1">
+          <mxGeometry height="150" width="300" x="300" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#10B981;strokeColor=#000000;strokeWidth=2" value="发货月台" vertex="1">
+          <mxGeometry height="150" width="400" x="650" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF4444;strokeColor=#000000;strokeWidth=2" value="异常/退货区" vertex="1">
+          <mxGeometry height="300" width="200" x="50" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-7" edge="1" parent="1" style="strokeColor=#333333;strokeWidth=8;endArrow=none;html=1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="250" as="sourcePoint" />
+            <mxPoint x="1150" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-8" edge="1" parent="1" style="strokeColor=#333333;strokeWidth=8;endArrow=none;html=1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="100" as="sourcePoint" />
+            <mxPoint x="275" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-9" edge="1" parent="1" style="strokeColor=#333333;strokeWidth=8;endArrow=none;html=1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="725" y="100" as="sourcePoint" />
+            <mxPoint x="725" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-10" edge="1" parent="1" style="endArrow=classic;strokeColor=#165DFF;strokeWidth=4;html=1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="175" as="sourcePoint" />
+            <mxPoint x="300" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-11" edge="1" parent="1" style="endArrow=classic;strokeColor=#6B7280;strokeWidth=4;html=1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="250" as="sourcePoint" />
+            <mxPoint x="750" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-12" edge="1" parent="1" style="endArrow=classic;strokeColor=#F59E0B;strokeWidth=4;html=1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="400" as="sourcePoint" />
+            <mxPoint x="600" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-13" edge="1" parent="1" style="endArrow=classic;strokeColor=#F97316;strokeWidth=4;html=1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="525" as="sourcePoint" />
+            <mxPoint x="650" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-14" parent="1" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspectRatio=0;image=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA0MCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjMwIiByeD0iNSIgZmlsbD0iIzFCMUYzNSIvPgo8Y2lyY2xlIGN4PSI1IiBjeT0iMjUiIHI9IjMiIGZpbGw9IndoaXRlIi8+CjxjaXJjbGUgY3g9IjM1IiBjeT0iMjUiIHI9IjMiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMCAxMEgyMFYxNUgxMFYxMFoiIGZpbGw9IiMxNjVERkYiLz4KPC9zdmc+;html=1" value="AGV-01" vertex="1">
+          <mxGeometry height="30" width="40" x="150" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-15" parent="1" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspectRatio=0;image=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA0MCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjMwIiByeD0iNSIgZmlsbD0iIzFCMUYzNSIvPgo8Y2lyY2xlIGN4PSI1IiBjeT0iMjUiIHI9IjMiIGZpbGw9IndoaXRlIi8+CjxjaXJjbGUgY3g9IjM1IiBjeT0iMjUiIHI9IjMiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMCAxMEgyMFYxNUgxMFYxMFoiIGZpbGw9IiMxNjVERkYiLz4KPC9zdmc+;html=1" value="AGV-02" vertex="1">
+          <mxGeometry height="30" width="40" x="500" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="QgFqrFmqbul2l9cRNmJy-16" parent="1" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspectRatio=0;image=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCA0MCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjMwIiByeD0iNSIgZmlsbD0iIzFCMUYzNSIvPgo8Y2lyY2xlIGN4PSI1IiBjeT0iMjUiIHI9IjMiIGZpbGw9IndoaXRlIi8+CjxjaXJjbGUgY3g9IjM1IiBjeT0iMjUiIHI9IjMiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMCAxMEgyMFYxNUgxMFYxMFoiIGZpbGw9IiMxNjVERkYiLz4KPC9zdmc+;html=1" value="AGV-03" vertex="1">
+          <mxGeometry height="30" width="40" x="850" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
